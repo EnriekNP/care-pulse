@@ -1,3 +1,4 @@
+This is a tutorial project to learn next-js from https://www.youtube.com/watch?v=lEflo_sc82g&t=3043s
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
